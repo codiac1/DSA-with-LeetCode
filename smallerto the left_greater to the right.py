@@ -1,0 +1,1 @@
+def smaller_to_the_left_greater_to_the_right(arr):
